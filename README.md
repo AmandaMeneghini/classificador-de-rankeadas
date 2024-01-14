@@ -1,9 +1,9 @@
 # Classificador de rankeadas 🕹️
 Desafio proposto pelo professor Felipe Aguiar do Bootcamp de Lógica de Programação da [DIO](https://www.dio.me)
 
-### Onde as instruções eram:
+## instruções do desafio :
 
-# 2️⃣ Calculadora de partidas Rankeadas
+### 2️⃣ Calculadora de partidas Rankeadas
 
 **O Que deve ser utilizado**
 
@@ -43,7 +43,7 @@ Ao final deve se exibir uma mensagem:
 
 <img src="./assets/demoOdCode.gif">
 
-_Estensão utilizada para facilitar a execução do código "Code Runner"_
+_extensão utilizada para facilitar a execução do código "Code Runner"_
 
 ### Tecnologias utilizadas 
  <img src="./assets/javascript_icon_130900.png" style="width: 50px">
