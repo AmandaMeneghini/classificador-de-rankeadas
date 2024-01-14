@@ -38,3 +38,12 @@ Se vitórias for maior ou igual a 101 = Imortal
 Ao final deve se exibir uma mensagem:
 
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
+
+## Demonstração do funcionamento do Código
+
+<img src="./assets/demoOdCode.gif">
+
+_Estensão utilizada para facilitar a execução do código "Code Runner"_
+
+### Tecnologias utilizadas 
+ <img src="./assets/javascript_icon_130900.png" style="width: 50px">
